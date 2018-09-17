@@ -209,6 +209,7 @@ Baking info: https://gist.github.com/dakk/bdf6efe42ae920acc660b20080a506dd
 Docker images: https://hub.docker.com/r/tezos/tezos/tags/
 
 Docker script: https://gitlab.com/tezos/tezos/blob/mainnet/docs/introduction/howtoget.rst
+
 Copy to mainnet.sh and run as usual.
 
 Korean version : https://blog.naver.com/justmustone/221310459511 
